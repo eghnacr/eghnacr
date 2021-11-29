@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Egehan</h1>
 
-- 🔭 I’m currently working on [Producter](https://producter.co/)
-
 - 🌱 I’m currently learning **Swift, SwiftUI**
 
 - 📫 How to reach me **eghnacr@gmail.com**
